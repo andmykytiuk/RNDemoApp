@@ -8,12 +8,12 @@ import {
 
 import {
   MetaMapRNSdk,
-} from 'react-native-metaMap-sdk';
+} from 'react-native-metamap-sdk';
 
 export default class App extends Component {
   constructor() {
     super();
-    console.log('Constructor Called.');	
+    console.log('Constructor Called.');
   }
 
    componentDidMount() {
