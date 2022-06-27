@@ -13,7 +13,8 @@
     "install": "^0.13.0",
     "npm": "^8.5.5",
     "react": "17.0.1",
-    "react-native": "0.64.0",
+    "react-native": "0.66.3",
+    "react-native-metamap-sdk": "^4.0.32",
     "react-native-metaMap-sdk": "github:MatiFace/react-native-mati-global-id-sdk"
   },
   "devDependencies": {
